@@ -1,4 +1,5 @@
 function [X_mics,X_p,x_p,y_p] = proof(x_mic1,y_mic1,x,y,n_mics,n_proof_x,n_proof_y)
+% Function to create the position of the 
     X_mics = zeros(n_mics,2);
     for i = 1:n_mics
         if i <= n_mics/2
