@@ -30,4 +30,4 @@ journal.
 
 ## License
 
-See license.txt in the root directory of the repository.
+MIT
