@@ -15,9 +15,6 @@ This repository cointains the code that can be used for the generation of an aco
 
 **Figure 1:** *Acoustic mapping visualized as a heatmap.*
 
-![Image 2](/map.png)
-
-
 <img src="map.png" alt="3dmap" width="600">
 
 **Figure 2:** *Acoustic mapping visualized as a 3D scatter plot.*
